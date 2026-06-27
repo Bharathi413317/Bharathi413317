@@ -16,9 +16,14 @@
 bothsabharathi1@gmail.com
 ## 🛠️ Languages and Tools
 
+### 🛠️ Languages & Tools
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,aws" />
 </p>
+
+Java • Python • JavaScript • HTML5 • CSS3 • Git • GitHub • VS Code • AWS
+
 ## 📊 GitHub Stats
 
 <p align="center">
