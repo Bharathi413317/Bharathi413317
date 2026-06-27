@@ -22,7 +22,7 @@ bothsabharathi1@gmail.com
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,aws" />
 </p>
 
-Java • Python • JavaScript • HTML5 • CSS3 • Git • GitHub • VS Code • AWS
+
 
 ## 📊 GitHub Stats
 
