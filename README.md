@@ -4,10 +4,8 @@
 
 ---
 
-# 🚀 About Me
-
 🎓 B.Tech CSE student at Gayatri Vidya Parishad College of Engineering  
-💻 Passionate about Java, DSA, Full-Stack Development ,Amazon web services 
+💻 Passionate about Java, DSA, Full-Stack Development, Amazon Web Services  
 🚀 Experience with Java, Python, AWS & Frontend Development  
 🧠 500+ DSA problems solved  
 🌱 Always learning & building projects
