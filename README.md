@@ -1,10 +1,10 @@
 # Hi 👋, I'm Bharathi Bothsa
 
 ### A passionate Software Developer and Computer Science student from India 🇮🇳
-
-* 🎓 I'm pursuing **B.Tech in Computer Science and Engineering** at **Gayatri Vidya Parishad College of Engineering**
+*  💻 SDE intern at Amazon.
+* 🎓 I'm pursuing **B.Tech in Computer Science and Engineering** at **Gayatri Vidya Parishad College of Engineering** 
 * 💻 I enjoy solving **Data Structures & Algorithms** problems and building real-world applications
-* 🌱 I'm currently learning **Java, Spring Boot, Full-Stack Development, and System Design**
+* 🌱 I'm currently learning **Java, Full-Stack Development. 
 * 👯 I'm looking to collaborate on **Java, Full-Stack, and Open Source Projects**
 * 💬 Ask me about **Java, Python, DSA, HTML, CSS, JavaScript, SQL**
 * 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
@@ -13,22 +13,12 @@
 ---
 
 ## 🌐 Connect with me
-
-* GitHub: https://github.com/Bharathi413317
-* LinkedIn: *Add your LinkedIn profile here*
-* LeetCode: *Add your LeetCode profile here*
-* HackerRank: *Add your HackerRank profile here*
-
----
-
+bothsabharathi1@gmail.com
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,spring,react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,nodejs" />
 </p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -43,17 +33,5 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharathi413317&theme=github_dark"/>
 </p>
-
----
-
-## 🚀 Current Goals
-
-* ✅ Solve 500+ LeetCode Problems
-* ✅ Master Java and Data Structures & Algorithms
-* ✅ Build Full-Stack Projects
-* ✅ Learn Spring Boot and Microservices
-* ✅ Contribute to Open Source
-
----
 
 ⭐ **Thanks for visiting my profile! Have a great day!**
