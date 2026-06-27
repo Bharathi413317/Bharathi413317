@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bharathi Bothsa
+# Hi 👋, I'm Bharathi Botsa
 
 ### 💻 Aspiring Software Engineer | DSA Enthusiast| SDE INTERN AT AMAZON
 
@@ -42,14 +42,13 @@
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Web Design
 
 ---
 
 ## ⚙ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,nodejs" />
 </p>
 
 * Java
@@ -60,7 +59,7 @@
 ## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sql" />
 </p>
 * SQL
 
@@ -136,14 +135,6 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharathi413317&theme=github_dark"/>
 </p>
-
----
-
-## 🏆 Coding Profiles
-
-* 💻 LeetCode
-* ⭐ HackerRank
-* 🚀 GitHub
 
 ---
 
