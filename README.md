@@ -6,7 +6,7 @@
 * 💻 I enjoy solving **Data Structures & Algorithms** problems and building real-world applications
 * 🌱 I'm currently learning **Java, Full-Stack Development. 
 * 👯 I'm looking to collaborate on **Java, Full-Stack, and Open Source Projects**
-* 💬 Ask me about **Java, Python, DSA, HTML, CSS, JavaScript, SQL**
+* 💬 Ask me about **Java, Python, DSA, HTML, CSS, JavaScript, SQL,Amazon S3,Amazon Bedrock**
 * 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
 * ⚡ Fun fact: I love solving LeetCode problems and continuously improving my coding skills.
 
@@ -17,7 +17,7 @@ bothsabharathi1@gmail.com
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,nodejs,Amazon S3,Amazon BedRock" />
 </p>
 ## 📊 GitHub Stats
 
