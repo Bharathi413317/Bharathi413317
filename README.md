@@ -1,30 +1,141 @@
-# Hi 👋, I'm Bharathi Botsa
+# Hi 👋, I'm Bharathi Bothsa
 
-### A passionate Software Developer and Computer Science student
-*  💻 SDE intern at Amazon.
-* 🎓 I'm pursuing **B.Tech in Computer Science and Engineering** at **Gayatri Vidya Parishad College of Engineering** 
-* 💻 I enjoy solving **Data Structures & Algorithms** problems and building real-world applications
-* 🌱 I'm currently learning **Java, Full-Stack Development. 
-* 👯 I'm looking to collaborate on **Java, Full-Stack, and Open Source Projects**
-* 💬 Ask me about **Java, Python, DSA, HTML, CSS, JavaScript, SQL,Amazon S3,Amazon Bedrock**
-* 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
-* ⚡ Fun fact: I love solving LeetCode problems and continuously improving my coding skills.
+### 💻 Aspiring Software Engineer | Java Full-Stack Developer | DSA Enthusiast
 
 ---
 
-## 🌐 Connect with me
-bothsabharathi1@gmail.com
-## 🛠️ Languages and Tools
+# 🚀 About Me
 
-### 🛠️ Languages & Tools
+🎓 B.Tech in Computer Science & Engineering at Gayatri Vidya Parishad College of Engineering
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,aws" />
+💻 Passionate about Java Development, Data Structures & Algorithms, Full-Stack Development, and Cloud Technologies
+
+🚀 Hands-on experience with Java, Spring Boot, AWS, and Web Development
+
+🧠 Strong problem-solving skills with 500+ coding problems solved across coding platforms
+
+🌱 Always learning new technologies and building real-world projects
+
+---
+
+# 🛠 Tech Stack & Skills
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
+* Java
+* Python
+* C
+* JavaScript
 
+---
 
-## 📊 GitHub Stats
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+
+---
+
+## ⚙ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+* Java
+* Spring Boot
+* REST APIs
+* MVC Architecture
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+* MySQL
+* SQL
+
+---
+
+## ☁ Cloud & AWS
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+* Amazon S3
+* Amazon Bedrock
+* AWS Services
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+# 🚀 Projects
+
+* 💰 Finance Chatbot (Flask)
+* 🌐 Full-Stack Web Applications
+* ☁ AWS S3 & Bedrock Integration
+* 📊 Java & Spring Boot Projects
+
+---
+
+# 🌱 Currently Learning
+
+* Spring Boot
+* System Design
+* Full-Stack Development
+* AWS Cloud Services
+* Microservices
+
+---
+
+# 🤝 Looking to Collaborate
+
+✔ Java Projects
+
+✔ Spring Boot Projects
+
+✔ Open Source Contributions
+
+✔ Full-Stack Development
+
+---
+
+# 📫 Connect With Me
+
+* 📧 **[your-email@example.com](mailto:your-email@example.com)**
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💻 GitHub: https://github.com/Bharathi413317
+* 🟨 LeetCode: https://leetcode.com/u/your-username/
+* ⭐ HackerRank: https://hackerrank.com/your-username
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bharathi413317&show_icons=true&theme=tokyonight" height="180"/>
@@ -39,4 +150,14 @@ bothsabharathi1@gmail.com
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharathi413317&theme=github_dark"/>
 </p>
 
-⭐ **Thanks for visiting my profile! Have a great day!**
+---
+
+## 🏆 Coding Profiles
+
+* 💻 LeetCode
+* ⭐ HackerRank
+* 🚀 GitHub
+
+---
+
+### ⭐ "Code • Learn • Build • Repeat"
