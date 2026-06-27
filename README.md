@@ -57,12 +57,7 @@
 ---
 
 ## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=sql" />
-</p>
 * SQL
-
 ---
 
 ## ☁ Cloud & AWS
