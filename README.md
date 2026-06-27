@@ -6,15 +6,11 @@
 
 # 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering at Gayatri Vidya Parishad College of Engineering
-
-💻 Passionate about Data Structures & Algorithms, Full-Stack Development, and Cloud Technologies
-
-🚀 Hands-on experience with Java,python, AWS, and Web Frontend Development
-
-🧠 Strong problem-solving skills with 500+ coding problems solved across coding platforms
-
-🌱 Always learning new technologies and building real-world projects
+🎓 B.Tech CSE student at Gayatri Vidya Parishad College of Engineering  
+💻 Passionate about Java, DSA, Full-Stack Development ,Amazon web services 
+🚀 Experience with Java, Python, AWS & Frontend Development  
+🧠 500+ DSA problems solved  
+🌱 Always learning & building projects
 
 ---
 
@@ -57,6 +53,7 @@
 ---
 
 ## 🗄 Database
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
 * SQL
 ---
 
