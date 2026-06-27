@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bharathi Botsa
 
-### A passionate Software Developer and Computer Science student from India 🇮🇳
+### A passionate Software Developer and Computer Science student
 *  💻 SDE intern at Amazon.
 * 🎓 I'm pursuing **B.Tech in Computer Science and Engineering** at **Gayatri Vidya Parishad College of Engineering** 
 * 💻 I enjoy solving **Data Structures & Algorithms** problems and building real-world applications
