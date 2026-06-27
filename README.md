@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bharathi Bothsa
+# Hi 👋, I'm Bharathi Botsa
 
 ### A passionate Software Developer and Computer Science student from India 🇮🇳
 *  💻 SDE intern at Amazon.
