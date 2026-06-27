@@ -17,7 +17,7 @@ bothsabharathi1@gmail.com
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,nodejs,Amazon S3,Amazon BedRock" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,aws" />
 </p>
 ## 📊 GitHub Stats
 
